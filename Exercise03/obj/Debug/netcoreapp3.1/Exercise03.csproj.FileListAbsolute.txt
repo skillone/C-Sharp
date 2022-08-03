@@ -1,0 +1,14 @@
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03.deps.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03.runtimeconfig.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03.runtimeconfig.dev.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03.dll
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/bin/Debug/netcoreapp3.1/Exercise03.pdb
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.csproj.AssemblyReference.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.AssemblyInfoInputs.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.AssemblyInfo.cs
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.csproj.CoreCompileInputs.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.dll
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.pdb
+/Users/guanzepeng/Projects/C_sharp_Assignments/Exercise03/obj/Debug/netcoreapp3.1/Exercise03.genruntimeconfig.cache

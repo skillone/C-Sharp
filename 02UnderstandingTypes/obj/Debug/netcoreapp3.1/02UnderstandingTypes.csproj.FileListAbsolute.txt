@@ -1,0 +1,14 @@
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.csproj.AssemblyReference.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.AssemblyInfo.cs
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes.deps.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes.runtimeconfig.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes.runtimeconfig.dev.json
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes.dll
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/bin/Debug/netcoreapp3.1/02UnderstandingTypes.pdb
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.dll
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.pdb
+/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/obj/Debug/netcoreapp3.1/02UnderstandingTypes.genruntimeconfig.cache

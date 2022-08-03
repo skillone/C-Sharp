@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBH9pnd/akURh4FBbmJ4kbYb48TOl6xMYbG1XDpIipOQvkYsOTK13m1qg5vBtDNz+8Et2+BHZr6c1m5CoauKXQ==",
+  "success": true,
+  "projectFilePath": "/Users/guanzepeng/Projects/C_sharp_Assignments/02UnderstandingTypes/02UnderstandingTypes.csproj",
+  "expectedPackageFiles": [
+    "/Users/guanzepeng/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/guanzepeng/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.27/microsoft.netcore.app.host.osx-x64.3.1.27.nupkg.sha512",
+    "/Users/guanzepeng/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
